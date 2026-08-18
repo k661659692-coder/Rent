@@ -28,3 +28,4 @@ Run `supabase/schema.sql` in the Supabase SQL editor, then set the public URL an
 
 ## Not yet wired
 Real payments/payouts, production authentication flows, image storage, email/SMS, maps, moderation, AI discovery/outreach, concurrency-safe booking transactions and mobile app. These are intentionally integration points, not fake production functionality.
+Vercel deployment test
