@@ -1,0 +1,1 @@
+export default function Admin(){return <section className="section"><div className="container"><h1>Admin</h1><p className="muted">Admin controls are intentionally gated behind authentication/RLS before production.</p></div></section>}
